@@ -1,0 +1,35 @@
+https://flukeout.github.io/ este es la pagina de juego
+parte del css
+nivel 1 = plate
+nivel 2 = bentu
+nivel 3 = #fancy
+nivel 4 = plate apple
+nivel 5 = #fancy pickle
+nivel 6 = .small
+nivel 7 = orange.small
+nivel 8 = bento orange.small
+nivel 9 = plate, bento
+nivel 10 = *
+nivel 11 = plate *
+nivel 12 = plate + apple
+nivel 13 = bento ~ pickle
+nivel 14 = plate > apple
+nivel 15 = orange:first-child
+nivel 16 =  plate :only-child
+nivel 17 =  .small:last-child
+nivel 18 = :nth-child(3)
+nivel 19 = bento:nth-last-child(3)
+nivel 20 = apple:first-of-type
+nivel 21 = plate:nth-of-type(even)
+nivel 22 = plate:nth-of-type(2n+3)
+nivel 23 = plate apple:only-of-type
+nivel 24 = orange:last-of-type, apple:last-of-type
+nivel 25 = bento:empty
+nivel 26 = apple:not(.small)
+nivel 27 =   *[for]
+nivel 28 = plate[for]
+nivel 29 = bento[for="Vitaly"]
+nivel 30 = *[for^="Sa"]
+nivel 31 = *[for$="ato"]
+nivel 32 = bento[for*="obb"]
+ 
